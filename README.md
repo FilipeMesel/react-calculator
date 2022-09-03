@@ -4,6 +4,8 @@ projeto front-end de uma calculadora com react. Fonte: https://www.youtube.com/w
 # Upgrade
 Visando aumentar o aprendizado, decidi tornar a calculadora sugerida uma calculadora científica; adicionando novos botões e funcionalidades.
 
+![alt text](https://drive.google.com/file/d/1ClDXPnduQvDMJXTu1Pg-ILmzAlBmp8My/view?usp=sharing/to/img.png)
+
 # Tecnologias aplicadas
 
 * React
