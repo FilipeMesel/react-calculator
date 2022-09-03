@@ -6,12 +6,18 @@ Visando aumentar o aprendizado, decidi tornar a calculadora sugerida uma calcula
 
 # Tecnologias aplicadas
 
-React
-Reactjs
-NodeJs
-JavaScript
-Hooks
-Criação de components
-CSS
-HTML
-JSX
+* React
+* Reactjs
+** Hooks
+** Criação de components
+* NodeJs
+** JavaScript
+* CSS
+* HTML
+* JSX
+
+# Passo a passo para executar o código
+* git clone https://github.com/FilipeMesel/react-calculator.git
+* Entre na pasta do repositório
+* Digite "npm install mathjs"
+* Digite "npm start"
