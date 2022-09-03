@@ -8,10 +8,10 @@ Visando aumentar o aprendizado, decidi tornar a calculadora sugerida uma calcula
 
 * React
 * Reactjs
-** Hooks
-** Criação de components
+* Hooks
+* Criação de components
 * NodeJs
-** JavaScript
+* JavaScript
 * CSS
 * HTML
 * JSX
